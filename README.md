@@ -1,4 +1,10 @@
-### Hi there 👋
+### Heyo 👋
+
+I'm a software engineer at [Very Good Ventures](https://verygood.ventures) 🦄
+
+### Github Stats
+
+[![Will's Github Stats](https://github-readme-stats.vercel.app/api?username=willhlas&count_private=true&theme=default&show_icons=true)](https://github.com/willhlas)
 
 <!--
 **willhlas/willhlas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
