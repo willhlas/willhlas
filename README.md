@@ -1,7 +1,5 @@
 ### Heyo 👋
 
-I'm a software engineer at [Very Good Ventures](https://verygood.ventures) 🦄
-
 <!--
 **willhlas/willhlas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
